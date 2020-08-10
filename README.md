@@ -1,7 +1,7 @@
 # HealthDeclaration
 
 Health Declaration...
-This form has become a significant part of our daily routine (During Covie-19).
+This form has become a significant part of our daily routine (During Covid-19).
 Every time that I'm going to my gym I am asked to fill out such a form.
 The worst part is that it is done using pen and paper.
 Imagine what it is like to fill out a form with a pen that everyone uses, especially these days...
